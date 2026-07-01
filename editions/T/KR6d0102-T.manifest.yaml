@@ -1,0 +1,138 @@
+canonical_identifier: bkk:krp/KR6d0102/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0102/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經疏
+  identifiers:
+    krp: KR6d0102
+    cbeta: T85n2750
+    cbeta_old_id: T85n2750
+    authorityid: CA0004769
+    json_key: T2750
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2750.xml
+    old_id: T85n2750
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0102_000-T.yaml, hash: 'sha256:d69bfb4e6c89f2bd3bf864e838f0f43111784d829b0d656a1566ac1e5e92f900'}
+  - {seq: 1, filename: KR6d0102_001-T.yaml, hash: 'sha256:c09623661e6968bca91650d39e8240868c35d5bd11a3b4063c8916e08050a2d6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0102_000-T.markers.yaml, hash: 'sha256:087be2697061012168fe98c7761d2037e26ea7f91daf7dbca2f09060e0bfca18'}
+  - {seq: 1, role: markers, filename: assets/KR6d0102_001-T.markers.yaml, hash: 'sha256:454b37fa2f12c10df64ce62300118683cfd89ffa47433deb1ab3c33c96f73e8f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0102_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7182
+  label: 法華經疏
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0102_T_001-mulu-1
+    span:
+    - body
+    - 142
+    - 142
+  label: 法師功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0102_T_001-mulu-2
+    span:
+    - body
+    - 469
+    - 469
+  label: 常不輕品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0102_T_001-mulu-3
+    span:
+    - body
+    - 1130
+    - 1130
+  label: 如來神力品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0102_T_001-mulu-4
+    span:
+    - body
+    - 2155
+    - 2155
+  label: 囑累品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0102_T_001-mulu-5
+    span:
+    - body
+    - 2687
+    - 2687
+  label: 藥王本事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0102_T_001-mulu-6
+    span:
+    - body
+    - 4105
+    - 4105
+  label: 妙音菩薩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0102_T_001-mulu-7
+    span:
+    - body
+    - 5095
+    - 5095
+  label: 觀音品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0102_T_001-mulu-8
+    span:
+    - body
+    - 5674
+    - 5674
+  label: 陀羅尼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0102_T_001-mulu-9
+    span:
+    - body
+    - 6125
+    - 6125
+  label: 妙莊嚴王品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0102_T_001-mulu-10
+    span:
+    - body
+    - 6638
+    - 6638
+  label: 普賢品
+  type: mulu
+  level: 1
+hash: sha256:c02dfc077cc51049b9b691efb198408a1de60ad4c6a032817940156c17036cab
